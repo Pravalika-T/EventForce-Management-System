@@ -1,4 +1,4 @@
-# EventForce-Management-System
+# EventForce-Management-System : Documentation
 
 **EventForce Management System – Salesforce Implementation** is a Salesforce-based event management solution designed to centralize and automate event planning operations. The system manages **Events, Clients, Vendors, Venues, Feedback, and Event-Vendor assignments** within a structured Salesforce CRM platform.
 
@@ -35,3 +35,7 @@ The project was developed and tested in a **Salesforce Developer Edition environ
 * 🔐 Role-based security and controlled access
 
 **Project Goal:** To reduce manual event-management activities, improve data accuracy and coordination, and provide real-time visibility into event operations. 
+
+# EventForce-Management-System : Demo Video
+
+  Link: https://drive.google.com/file/d/1G8a8qp5wVWSf9KlEMEFMisCTnSWzIhbV/view?usp=sharing
